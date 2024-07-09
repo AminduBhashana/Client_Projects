@@ -15,16 +15,16 @@ A fully functional Flutter app designed for pharmacy wholesalers in Sri Lanka. T
   
   <table>
   <tr>
-    <td><img src="images/image10.jpg" alt="image1" width="200"/></td>
-    <td><img src="images/image2.jpg" alt="Screenshot2" width="200"/></td>
-    <td><img src="images/image1.jpg" alt="Screenshot3" width="200"/></td>
-    <td><img src="images/image3.jpg" alt="Screenshot4" width="200"/></td>
+    <td><img src="images/image10.jpg" alt="image10" width="200"/></td>
+    <td><img src="images/image2.jpg" alt="image2" width="200"/></td>
+    <td><img src="images/image1.jpg" alt="image1" width="200"/></td>
+    <td><img src="images/image3.jpg" alt="image3" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/image8.jpg" alt="Screenshot5" width="200"/></td>
-    <td><img src="images/image6.jpg" alt="Screenshot6" width="200"/></td>
-    <td><img src="images/image7.jpg" alt="Screenshot7" width="200"/></td>
-    <td><img src="images/image9.jpg" alt="Screenshot8" width="200"/></td>
+    <td><img src="images/image8.png" alt="image8" width="200"/></td>
+    <td><img src="images/image6.jpg" alt="image6" width="200"/></td>
+    <td><img src="images/image7.jpg" alt="image7" width="200"/></td>
+    <td><img src="images/image9.png" alt="image9" width="200"/></td>
   </tr>
 </table>
 
