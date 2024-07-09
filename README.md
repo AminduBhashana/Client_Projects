@@ -1,4 +1,4 @@
-# PharmacyWholesalerApp
+# Pharmacy Wholesales App
 
 A fully functional Flutter app designed for pharmacy wholesalers in Sri Lanka. The app streamlines the process of ordering pharmacy items for retail pharmacies, handling everything from item selection to order placement. State management is implemented using the Provider package.
 
